@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ConsoleApplication4.cpp
+d:\odt\visual c\consoleapplication4\consoleapplication4\consoleapplication4.cpp(1): warning C4627: '#include <windows.h>': skipped when looking for precompiled header use
+  d:\odt\visual c\consoleapplication4\consoleapplication4\consoleapplication4.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\odt\visual c\consoleapplication4\consoleapplication4\consoleapplication4.cpp(2): warning C4627: '#include <GL/glut.h>': skipped when looking for precompiled header use
+  d:\odt\visual c\consoleapplication4\consoleapplication4\consoleapplication4.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\odt\visual c\consoleapplication4\consoleapplication4\consoleapplication4.cpp(100): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

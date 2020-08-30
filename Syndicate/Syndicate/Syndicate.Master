@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Syndicate.master.cs" Inherits="Syndicate.Syndicate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server" title="EERG">
+    <title> DSKFBOS</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
+        </asp:ContentPlaceHolder>
+        <asp:ImageButton ID="ImageButton1" runat="server" />
+        <asp:CheckBoxList ID="CheckBoxList1" runat="server"></asp:CheckBoxList>
+        <asp:Login ID="Login1" runat="server" BackColor="#FFFBD6" BorderColor="#FFDFAD" BorderPadding="4" BorderStyle="Solid" BorderWidth="1px" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#333333" Height="151px" TextLayout="TextOnTop" Width="369px">
+            <InstructionTextStyle Font-Italic="True" ForeColor="Black" />
+            <LoginButtonStyle BackColor="White" BorderColor="#CC9966" BorderStyle="Solid" BorderWidth="1px" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" />
+            <TextBoxStyle Font-Size="0.8em" />
+            <TitleTextStyle BackColor="#990000" Font-Bold="True" Font-Size="0.9em" ForeColor="White" />
+        </asp:Login>
+        <input id="Submit1" type="submit" value="submit" />
+        
+        
+        
+         </div>  
+         </form>
+</body>
+</html>

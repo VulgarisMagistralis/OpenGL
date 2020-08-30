@@ -1,0 +1,6 @@
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\bin\Syndicate.dll.config
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\bin\Syndicate.dll
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\bin\Syndicate.pdb
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\obj\Debug\Syndicate.dll
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\obj\Debug\Syndicate.pdb
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Syndicate\Syndicate\obj\Debug\Syndicate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\bin\personal.dll.config
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\bin\personal.dll
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\bin\personal.pdb
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\obj\Debug\personal.dll
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\obj\Debug\personal.pdb
+c:\users\cenk\documents\visual studio 2013\Projects\personal\personal\obj\Debug\personal.csprojResolveAssemblyReference.cache
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\bin\personal.dll.config
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\bin\personal.dll
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\bin\personal.pdb
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\obj\Debug\personal.csprojResolveAssemblyReference.cache
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\obj\Debug\personal.dll
+D:\Users\Cenk\Documents\Visual Studio 2013\Projects\personal\personal\obj\Debug\personal.pdb

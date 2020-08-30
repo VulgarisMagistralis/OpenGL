@@ -1,0 +1,5 @@
+﻿  cylinder.cpp
+d:\odt\visual c\cylinder\cylinder\cylinder.cpp(111): warning C4101: 's': unreferenced local variable
+d:\odt\visual c\cylinder\cylinder\cylinder.cpp(110): warning C4101: 'time': unreferenced local variable
+d:\odt\visual c\cylinder\cylinder\cylinder.cpp(109): warning C4101: 'fps': unreferenced local variable
+  cylinder.vcxproj -> D:\ODT\visual C\cylinder\Debug\cylinder.exe

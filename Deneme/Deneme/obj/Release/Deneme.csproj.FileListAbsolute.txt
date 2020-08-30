@@ -1,0 +1,6 @@
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Deneme.dll.config
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Deneme.dll
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Deneme.pdb
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Release\Deneme.dll
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Release\Deneme.pdb
+C:\Users\Cenk\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Release\Deneme.csprojResolveAssemblyReference.cache

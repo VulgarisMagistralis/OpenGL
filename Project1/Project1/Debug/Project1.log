@@ -1,0 +1,16 @@
+﻿Build started 18.02.2016 20:00:37.
+     1>Project "D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.h(14): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.cpp(4): error C2653: 'test' : is not a class or namespace name
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.cpp(6): warning C4508: 'test' : function should return a value; 'void' return type assumed
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.cpp(9): error C2653: 'test' : is not a class or namespace name
+     1>d:\users\cenk\documents\visual studio 2013\projects\project1\project1\test.cpp(9): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "D:\Users\Cenk\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.11

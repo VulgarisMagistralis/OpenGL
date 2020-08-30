@@ -1,0 +1,42 @@
+﻿Build started 16.03.2016 09:25:04.
+     1>Project "D:\Users\Cenk\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt plane.cpp
+         plane.cpp
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(82): error C2065: 'M_PI' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(89): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(89): error C2065: 'M_PI' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(90): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(90): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(91): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(91): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(93): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(93): error C2065: 'M_PI' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(94): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(94): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(95): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(95): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(101): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(101): error C2065: 'M_PI' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(102): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(102): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(103): error C2065: 'raio' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(103): error C2065: 'angulo' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(170): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(170): error C2373: '__glewGenBuffers' : redefinition; different type modifiers
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\glew.h(15150) : see declaration of '__glewGenBuffers'
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(170): error C2078: too many initializers
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(170): error C2440: 'initializing' : cannot convert from 'GLuint [100]' to 'int'
+                 There is no context in which this conversion is possible
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(172): error C2059: syntax error : '}'
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(172): error C2143: syntax error : missing ';' before '}'
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(178): error C2143: syntax error : missing ';' before '{'
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(178): error C2447: '{' : missing function header (old-style formal list?)
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(237): error C2065: 'renderScene' : undeclared identifier
+     1>d:\users\cenk\documents\visual studio 2013\projects\consoleapplication5\consoleapplication5\plane.cpp(238): error C2065: 'renderScene' : undeclared identifier
+     1>Done Building Project "D:\Users\Cenk\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.04
